@@ -14,3 +14,6 @@ Happy Coding!
      (We load source documents, We split those source documents into smaller chunks (documents),We send each of those documents to the text-embedding-3-small OpenAI API endpoint,We store each of the text representations with the vector representations as keys/values in a dictionary)
  - RAG -> Dense vector retrieval + In-context Learning
  - Enhancing RAG application to work with PDF files.
+
+ 3) Langchain powered RAG
+  - Focus is on learning how to navigate and build useful applications using LangChain, specifically LCEL, and how to integrate different APIs together into a coherent RAG application!
