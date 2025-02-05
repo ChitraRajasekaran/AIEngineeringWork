@@ -17,3 +17,12 @@ Happy Coding!
 
  3) Langchain powered RAG
   - Focus is on learning how to navigate and build useful applications using LangChain, specifically LCEL, and how to integrate different APIs together into a coherent RAG application!
+
+ 4) Building Agents with Langchain
+  - LangGraph - Building Cyclic Applications with LangChain - Equip our agent with toolbelt to help answer questions and add external knowledge
+  - Langsmith evaluator - To do more preprocessing with Langsmith and wrap our LangGraph agent in a simple chain 
+  - LangGraph for the "Patterns" of GenAI
+        - Prompt Engineering
+        - RAG
+        - Fine-tuning
+        - Agents
